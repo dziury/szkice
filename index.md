@@ -1,4 +1,2 @@
 # Szkice techniczne
 
-## Szkice techniczne
-
