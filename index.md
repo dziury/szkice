@@ -12,3 +12,6 @@
 <br>
 ![title](Obrazy/site div 3.png)
 <br>
+
+## Studnia Szpatowców [[PDF]](https://docs.google.com/viewer?url=https://github.com/dziury/szkice/raw/gh-pages/PDF/Studnia%20Szpatowc%C3%B3w.pdf) [[SVG]](https://github.com/dziury/szkice/raw/gh-pages/SVG/Studnia%20Szpatowc%C3%B3w.svg)
+<code>(Kroczyce, woj. śląskie, pow. zawierciański; 50.570516, 19.520952; Długość: 58m; Głębokość: 36.5m;</code> [PIG](http://jaskiniepolski.pgi.gov.pl/Details/Information/3506)<code>)</code>
