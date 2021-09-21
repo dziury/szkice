@@ -1,5 +1,5 @@
 # Szkice techniczne
-<code> Legenda do szkiców wg KKTJ,</code>[LINK](https://kktj.pl/Portals/0/szkice/legenda.pdf){:target="_blank"} <br>
+<code> Legenda do szkiców wg KKTJ</code> [LINK](https://kktj.pl/Portals/0/szkice/legenda.pdf){:target="_blank"} <br>
 <code>PDFy do wydruku, SVG do pobrania i edycji w programie obsługującym grafike wektorową (np. Inkscape). </code>
 
 <br>
