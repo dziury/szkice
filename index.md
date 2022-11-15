@@ -8,7 +8,7 @@
 ![title](Obrazy/site div 3.png)
 <br>
 
-## Mała w Mułowej [[PDF]](https://docs.google.com/viewer?url=https://github.com/dziury/szkice/blob/gh-pages/PDF/Studnia%20Szpatowc%C3%B3w.pdf){:target="_blank"} [[SVG]](SVG/Mala w Mulowej.svg){:target="_blank"}
+## Mała w Mułowej [[PDF]](https://docs.google.com/viewer?url=https://github.com/dziury/szkice/blob/gh-pages/PDF/Mala%20w%20Mulowej.pdf){:target="_blank"} [[SVG]](SVG/Mala w Mulowej.svg){:target="_blank"}
 <!---
 <code>(Kroczyce, woj. śląskie, pow. zawierciański; 50.572778, 19.518611; Długość: 59m; Głębokość: 18.5m;</code> [PIG](http://jaskiniepolski.pgi.gov.pl/Details/Information/3531){:target="_blank"}<code>)</code>
 -->
