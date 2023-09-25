@@ -1,5 +1,7 @@
 Godziny rozpoczęcia poszczególnych etapów akcji.
 
+
+
 Czas pomiędzy etapami spędzone głównie na przebieraniu się, jedzeniu i przygotowywaniu sprzętu.
 
 
@@ -41,7 +43,3 @@ Powrót (do bazy Truchanówka):
 - start: 00:10
 
 - powrót: 03:15
-
-
-
-
