@@ -1,10 +1,14 @@
 Godziny rozpoczęcia poszczególnych etapów akcji.
 
-\n
+---
+
+
 
 Czas pomiędzy etapami spędzone głównie na przebieraniu się, jedzeniu i przygotowywaniu sprzętu.
 
-\n
+---
+
+
 
 Podejście (od bazy Truchanówka): 
 
@@ -12,7 +16,9 @@ Podejście (od bazy Truchanówka):
 
 - pod przebieralnią (otwór Małej): 12:10
 
-\n
+---
+
+
 
 Ptasia (do studni Dantego) :
 
@@ -20,7 +26,9 @@ Ptasia (do studni Dantego) :
 
 - wyjście: 15:30
 
-\n
+---
+
+
 
 Mała w Mułowej (do Sali Fakro)
 
@@ -28,7 +36,9 @@ Mała w Mułowej (do Sali Fakro)
 
 - wyjście: 20:10
 
-\n
+---
+
+
 
 Marmurowa (do Piaskownicy)
 
@@ -36,10 +46,14 @@ Marmurowa (do Piaskownicy)
 
 - wyjście: 23:00
 
-\n
+---
+
+
 
 Powrót (do bazy Truchanówka):
 
 - start: 00:10
 
 - powrót: 03:15
+
+
