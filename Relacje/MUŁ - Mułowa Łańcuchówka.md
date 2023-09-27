@@ -1,3 +1,9 @@
+<br>
+![title](Relacje/mul-1.jpeg)
+<br>
+
+
+
 Godziny rozpoczęcia poszczególnych etapów akcji.
 
 Czas pomiędzy etapami spędzone głównie na przebieraniu się, jedzeniu i przygotowywaniu sprzętu.
@@ -21,5 +27,3 @@ Czas pomiędzy etapami spędzone głównie na przebieraniu się, jedzeniu i przy
 &darr;
 
 **Zejście** [start: **00:10** dojście: **03:15**]
-
-
