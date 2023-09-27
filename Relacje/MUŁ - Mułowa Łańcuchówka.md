@@ -1,11 +1,9 @@
 # [MUŁ] Mułowa Łańcuchówka
 
- <cite>[...] "to było powyżej granicy szaleństwa..."</cite>
+<span style="color:#808080"><cite>[...] "to było powyżej granicy szaleństwa..."</cite></span>
 
-<cite> -- po wyjściu z Marmurowej</cite>
 
-<span style="color:blue"><cite>[...] "to było powyżej granicy szaleństwa..."</cite></span>
-
+<span style="color:#808080"><cite>-- po wyjściu z Marmurowej</cite></span>
 
 Godziny rozpoczęcia posz*c*zególnych etapów akcji.
 
