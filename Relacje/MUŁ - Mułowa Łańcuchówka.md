@@ -1,4 +1,6 @@
-# [MUŁ] Mułowa Łańcuchówka
+<div "style = text-color:#ba4848f>
+<h1>[MUŁ] Mułowa Łańcuchówka </h1>
+</div>
 
 <span style="color:#808080"><cite>"[...] to było powyżej granicy szaleństwa..."</cite></span>
 
