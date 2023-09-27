@@ -19,7 +19,7 @@ Ilość sprzętu duża, ale przy odpowiednim sprężu możliwa do wniesienia prz
 
 
 <div>
-<img style="border:2px solid #000000" src="mul-2.png" alt="mul1" height="300" />
+<img style="border:2px solid #000000" src="mul-2.png" alt="mul1" height="400" />
 </div>
 
 
