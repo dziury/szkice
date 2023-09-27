@@ -1,6 +1,4 @@
-# [MUŁ] *Mułowa Łańcuchówka*
-
-
+# [MUŁ] Mułowa Łańcuchówka
 
 Godziny rozpoczęcia posz*c*zególnych etapów akcji.
 
@@ -28,10 +26,6 @@ Czas pomiędzy etapami spędzone głównie na przebieraniu się, jedzeniu i przy
 
 ---
 
-
-
 <img style='border:2px solid #FFFFFF' src="mul-1.png" alt="mul1" height="400"/>
 
 Strugi wody w studni Palidera
-
-
