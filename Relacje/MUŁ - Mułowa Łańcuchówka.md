@@ -6,24 +6,18 @@
 
 ---
 
-<div style="text-align: left">
+<div style="text-align: justify">
 Pomysł na tą akcję powstał dosyć spontanicznie, ale takie są często najlepsze.
-<br>
 <br>
 Trzy jaskinie: Ptasia Studnia, Mała w Mułowej i Marmurowa.
 <br>
-<br>
 W ciągu, z poręczowaniem, bez depozytów. Styl "od bazy do bazy". Cel w każdej jaskini szczególny, zachęcający do jej odwiedzenia: Sala Dantego, Fakro i Piaskownica.
-<br>
 <br>
 480m deniwelacji, licząc powierzchniowy zjazd do Ptasiej 540.
 <br>
-<br>
 Po wstępnym spojrzeniu na szkice i spisaniu najbardziej optymalnych odcinków linowych wyszło około 300m. Do tego 29 karabinków.
 <br>
-<br>
 Ilość sprzętu duża, ale przy odpowiednim sprężu możliwa do wniesienia przez 2 osoby.
-<br>
 <br>
 Rozpiska wyglądała tak:
 </div>
