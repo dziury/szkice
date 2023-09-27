@@ -5,6 +5,8 @@
 
 <span style="color:#808080"><cite>-- po wyjściu z Marmurowej</cite></span>
 
+---
+
 Godziny rozpoczęcia posz*c*zególnych etapów akcji.
 
 Czas pomiędzy etapami spędzone głównie na przebieraniu się, jedzeniu i przygotowywaniu sprzętu.
