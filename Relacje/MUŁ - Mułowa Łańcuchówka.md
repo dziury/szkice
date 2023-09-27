@@ -64,6 +64,16 @@ Następna w kolejce: Mała, Sala Fakro. Najgłębszy cel MUŁa. Tutaj już pakuj
 <br>
 W jaskini dużo wody jednak pomaga płachta zawieszona w stropie. Dzięki niej można chociaż przez chwilę nacieszyć się suchością.
 W studni Geriawitów oczywiście znów natrafiamy na deszcz jaskiniowy, ale jest on znośny.
+<br>
+<br>
+<div>
+<figure>
+<img style="border:2px solid #808080" src="gmul3.gif" alt="pakowanie" height="350" />
+<figcaption align = "center"><b>Sala Fakro (wiem, dużo nie widać)</b></figcaption>
+</figure>
+</div>
+<br>
+<br>
 W sali Fakro spędzamy prawdopodobnie jeszcze mniej czasu niż w Dantego i do góry. Pozostała przecież jeszcze Marmurowa.
 <br>
 <br>
