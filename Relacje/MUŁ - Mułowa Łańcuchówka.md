@@ -1,6 +1,6 @@
 
 
-<span style="color:blue"><h1>[MUŁ] Mułowa Łańcuchówka</span></h1>
+<span style="color:#ba4848ff"><h1>[MUŁ] Mułowa Łańcuchówka</h1></span>
 
 <span style="color:#808080"><cite>"[...] to było powyżej granicy szaleństwa..."</cite></span>
 
