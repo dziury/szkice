@@ -34,7 +34,7 @@ Niestety tego samego nie można powiedzieć o ilości wody w jaskini. W Ptasiej 
 <br>
 </div>
 
-<div>
+<div align="center">
 <figure>
 <img style="border:2px solid #808080" src="gmul1.gif" alt="video1" height="350" />
 <img style="border:2px solid #808080" src="mul-1.png" alt="palider" height="350" />
@@ -54,7 +54,7 @@ Po wyciągnięciu lin do góry czuć, że już w tym momencie napuchły od wody 
 Następna w kolejce: Mała, Sala Fakro. Najgłębszy cel MUŁa. Tutaj już pakujemy liny w 3 wory.
 <br>
 <br>
-<div>
+<div align="center">
 <figure>
 <img style="border:2px solid #808080" src="gmul2.gif" alt="pakowanie" height="350" />
 <figcaption align = "center"><b>Worowanie przed Małą</b></figcaption>
@@ -66,7 +66,7 @@ W jaskini dużo wody jednak pomaga płachta zawieszona w stropie. Dzięki niej m
 W studni Geriawitów oczywiście znów natrafiamy na deszcz jaskiniowy, ale jest on znośny.
 <br>
 <br>
-<div>
+<div align="center">
 <figure>
 <img style="border:2px solid #808080" src="gmul3.gif" alt="pakowanie" height="350" />
 <figcaption align = "center"><b>Sala Fakro (wiem, dużo nie widać)</b></figcaption>
@@ -136,5 +136,7 @@ Uczestnicy:
 <br>
 Serdecznie zachęcamy do powtórzeń łańcuchówki.
 </div>
+
+---
 
 
