@@ -16,10 +16,10 @@ Po wstępnym spojerzeniu na szkice i spisaniu najbardziej optymalnych odcinków 
 
 Ilość sprzętu duża, ale przy odpowiednim sprężu możliwa do wniesienia przez 2 osoby. Rozpiska wyglądała tak:
 
-![rozpiska](mul-2.png)
+
 
 <div>
-<img style="border:2px solid #FFFFFF" src="mul-2.png" alt="mul1" height="300" />
+<img style="border:2px solid #000000" src="mul-2.png" alt="mul1" height="300" />
 </div>
 
 
