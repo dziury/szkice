@@ -14,6 +14,7 @@ W ciągu, z poręczowaniem, bez depozytów. Styl "od bazy do bazy". Cel w każde
 Po wstępnym spojrzeniu na szkice i spisaniu najbardziej optymalnych odcinków linowych wyszło około 300m. Do tego 29 karabinków.
 Ilość sprzętu duża, ale przy odpowiednim sprężu możliwa do wniesienia przez 2 osoby.
 Rozpiska wyglądała tak:
+<br>
 </div>
 
 <div>
@@ -26,6 +27,7 @@ Prognozy na weekend nie najlepsze, dlatego decydujemy się na wyjście w niedzie
 Z bazy z charakterystycznym krakoskim sprężem wychodzimy niewiele przed 10. Podejście dosyć żwawym tempem. Po 2.5h jesteśmy pod otworem Małej. Tam przebieramy się, ogarniamy sprzęt i kierujemy się w kierunku Ptasiej.
 Deszcz towarzyszy nam właściwie od rana, raz pada mocniej, raz słabiej ale wilgoć utrzymuje się cały czas na wysokim poziomie, ale wciąż w granicy rozsądku.
 Niestety tego samego nie można powiedzieć o ilości wody w jaskini. W Ptasiej zmusza ona do naprawdę szybkiego poręczowania.
+<br>
 </div>
 
 
