@@ -15,6 +15,7 @@ Po wstępnym spojrzeniu na szkice i spisaniu najbardziej optymalnych odcinków l
 Ilość sprzętu duża, ale przy odpowiednim sprężu możliwa do wniesienia przez 2 osoby.
 Rozpiska wyglądała tak:
 <br>
+<br>
 </div>
 
 <div>
@@ -22,11 +23,14 @@ Rozpiska wyglądała tak:
 </div>
 
 <div style="text-align: justify; margin-right: 25%; margin-left: 25%;">
+<br>
+<br>
 Pozostało tylko znaleźć wspołzawodnika/zawodniczkę dla tego przedsięwziecia i można działać. Na szczęście Ewa nie wymagała dużo przekonywania.
 Prognozy na weekend nie najlepsze, dlatego decydujemy się na wyjście w niedzielę. Wtedy ma być trochę spokojniej niż w sobotę. Niestety tylko trochę.
 Z bazy z charakterystycznym krakoskim sprężem wychodzimy niewiele przed 10. Podejście dosyć żwawym tempem. Po 2.5h jesteśmy pod otworem Małej. Tam przebieramy się, ogarniamy sprzęt i kierujemy się w kierunku Ptasiej.
 Deszcz towarzyszy nam właściwie od rana, raz pada mocniej, raz słabiej ale wilgoć utrzymuje się cały czas na wysokim poziomie, ale wciąż w granicy rozsądku.
 Niestety tego samego nie można powiedzieć o ilości wody w jaskini. W Ptasiej zmusza ona do naprawdę szybkiego poręczowania.
+<br>
 <br>
 </div>
 
@@ -59,14 +63,19 @@ Przebranie się zajmuje trochę czasu.
 Perspektywa założenia plecaka ze 150m zmoczonych lin i mokrych ubrań na pewno nie motywuje [po zważeniu plecaka po akcji, waga wskazała 27kg :) ].
 Ostatecznie nieco po północy zaczynamy schodzić, po 3 jesteśmy na bazie.
 Poniżej dokładne czasy poszczególnych etapów.
+<br>
+<br>
 </div>
 
 ---
 
 <div style="text-align: justify; margin-right: 25%; margin-left: 25%;">
-Godziny rozpoczęcia poszczególnych etapów akcji.
 <br>
+<br>
+Godziny rozpoczęcia poszczególnych etapów akcji.
 Czas pomiędzy etapami spędzone głównie na przebieraniu się, jedzeniu i przygotowywaniu sprzętu.
+<br>
+<br>
 </div>
 
 ---
