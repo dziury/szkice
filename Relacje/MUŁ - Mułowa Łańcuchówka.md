@@ -1,5 +1,11 @@
 # [MUŁ] Mułowa Łańcuchówka
 
+```
+> [...] to było powyżej granicy szaleństwa
+>
+> -- <cite>po wyjściu z Marmurowej</cite>
+```
+
 Godziny rozpoczęcia posz*c*zególnych etapów akcji.
 
 Czas pomiędzy etapami spędzone głównie na przebieraniu się, jedzeniu i przygotowywaniu sprzętu.
