@@ -22,7 +22,7 @@ Rozpiska wyglądała tak:
 <img style="border:2px solid #808080" src="mul-2.png" alt="mul1" height="450" />
 </div>
 
-<div style="text-align: justify; margin-right: 25%; margin-left: 25%;">
+<div style="text-align: justify; margin-right: 15%; margin-left: 15%;">
 <br>
 <br>
 Pozostało tylko znaleźć współzawodnika/zawodniczkę dla tego przedsięwzięcia i można działać. Na szczęście Ewa nie wymagała dużo przekonywania.
@@ -42,7 +42,7 @@ Niestety tego samego nie można powiedzieć o ilości wody w jaskini. W Ptasiej 
 </figure>
 </div>
 
-<div style="text-align: justify; margin-right: 25%; margin-left: 25%;">
+<div style="text-align: justify; margin-right: 15%; margin-left: 15%;">
 Po niecałych 40 minutach lądujemy w Sali Dantego. Spędzamy tam około pół minuty i kierujemy się do góry.
 Wyjście do góry też nie zajmuje dużo czasu, główną trudnością we Wlotówce jest niezachłyśnięcie się spływającą z góry wodą.
 Pomaga zasada: <i>Nie patrzeć do góry, tylko skupić się na ruchu płanietą.</i>
@@ -91,7 +91,7 @@ Poniżej dokładne czasy poszczególnych etapów.
 
 ---
 
-<div style="text-align: justify; margin-right: 25%; margin-left: 25%;">
+<div style="text-align: justify; margin-right: 15%; margin-left: 15%;">
 <br>
 Godziny rozpoczęcia poszczególnych etapów akcji.
 Czas pomiędzy etapami spędzone głównie na przebieraniu się, jedzeniu i przygotowywaniu sprzętu.
@@ -121,7 +121,7 @@ Czas pomiędzy etapami spędzone głównie na przebieraniu się, jedzeniu i przy
 
 ---
 
-<div style="text-align: justify; margin-right: 25%; margin-left: 25%;">
+<div style="text-align: justify; margin-right: 15%; margin-left: 15%;">
 Data akcji: <b>24.09.2023</b>
 <br>
 <br>
