@@ -1,6 +1,6 @@
 # [MUŁ] Mułowa Łańcuchówka
 
-<span style="color:#808080"><cite>[...] "to było powyżej granicy szaleństwa..."</cite></span>
+<span style="color:#808080"><cite>"[...] to było powyżej granicy szaleństwa..."</cite></span>
 
 
 <span style="color:#808080"><cite>-- po wyjściu z Marmurowej</cite></span>
