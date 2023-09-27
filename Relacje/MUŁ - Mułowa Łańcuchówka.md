@@ -26,7 +26,7 @@ Czas pomiędzy etapami spędzone głównie na przebieraniu się, jedzeniu i przy
 
 
 
-<img src="mul-1.png" alt="mul1" height="400"/>
+<img style='border:2px solid #000000' src="mul-1.png" alt="mul1" height="400"/>
 
 Strugi wody w studni Palidera
 
