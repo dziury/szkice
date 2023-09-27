@@ -1,6 +1,6 @@
-
-
-![title](Relacje\mul-1.jpeg)
+<br>
+![mul1](/Relacje/mul-1.jpeg)
+<br>
 
 Godziny rozpoczęcia posz*c*zególnych etapów akcji.
 
