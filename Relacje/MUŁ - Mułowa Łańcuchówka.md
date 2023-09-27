@@ -6,7 +6,7 @@
 
 ---
 
-<div style="text-align: justify; margin-right: 50px; margin-left: 50px;">
+<div style="text-align: justify; margin-right: 30%; margin-left: 30%;">
 Pomysł na tą akcję powstał dosyć spontanicznie, ale takie są często najlepsze.
 <br>
 Trzy jaskinie: Ptasia Studnia, Mała w Mułowej i Marmurowa.
