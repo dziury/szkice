@@ -16,13 +16,9 @@ Po wstępnym spojerzeniu na szkice i spisaniu najbardziej optymalnych odcinków 
 
 Ilość sprzętu duża, ale przy odpowiednim sprężu możliwa do wniesienia przez 2 osoby. Rozpiska wyglądała tak:
 
-
-
 <div>
-<img style="border:2px solid #000000" src="mul-2.png" alt="mul1" height="400" />
+<img style="border:2px solid #808080" src="mul-2.png" alt="mul1" height="450" />
 </div>
-
-
 
 ---
 
@@ -52,6 +48,6 @@ Czas pomiędzy etapami spędzone głównie na przebieraniu się, jedzeniu i przy
 
 ---
 
-<img style='border:2px solid #FFFFFF' src="mul-1.png" alt="mul1" height="400"/>
+<img title="" src="mul-1.png" alt="mul1" style="border:2px solid #FFFFFF" height="400" data-align="center">
 
 Strugi wody w studni Palidera
