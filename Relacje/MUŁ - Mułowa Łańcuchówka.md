@@ -1,5 +1,3 @@
-
-
 <h1 style="color:#ba4848ff">[MUŁ] Mułowa Łańcuchówka</h1>
 
 <span style="color:#808080"><cite>"[...] to było powyżej granicy szaleństwa..."</cite></span>
@@ -8,7 +6,7 @@
 
 ---
 
-<div style="text-align: justify; margin-right: 25%; margin-left: 25%;">
+<div style="text-align: justify; margin-right: 15%; margin-left: 15%;">
 Pomysł na akcję powstał dosyć spontanicznie, ale takie są często najlepsze.
 Trzy jaskinie: Ptasia Studnia, Mała w Mułowej i Marmurowa.
 W ciągu, z poręczowaniem, bez depozytów. Styl "od bazy do bazy". Cel w każdej jaskini szczególny, zachęcający do jej odwiedzenia: Sala Dantego, Fakro i Piaskownica.
@@ -43,8 +41,6 @@ Niestety tego samego nie można powiedzieć o ilości wody w jaskini. W Ptasiej 
 <figcaption align = "center"><b>Wlotówka i Studnia Palidera</b></figcaption>
 </figure>
 </div>
-
-
 
 <div style="text-align: justify; margin-right: 25%; margin-left: 25%;">
 Po niecałych 40 minutach lądujemy w Sali Dantego. Spędzamy tam około pół minuty i kierujemy się do góry.
@@ -140,5 +136,3 @@ Serdecznie zachęcamy do powtórzeń łańcuchówki.
 </div>
 
 ---
-
-
