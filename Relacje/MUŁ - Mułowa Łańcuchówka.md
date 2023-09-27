@@ -14,6 +14,10 @@ Po wstępnym spojerzeniu na szkice i spisaniu najbardziej optymalnych odcinków 
 
 ![rozpiska](mul-2.png)
 
+<div>
+<img style="border:2px solid #FFFFFF" src="mul-2.png" alt="mul1" height="500" />
+</div>
+
 ---
 
 Godziny rozpoczęcia posz*c*zególnych etapów akcji.
