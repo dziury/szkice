@@ -1,5 +1,5 @@
 <br>
-![mul1](mul-1.png)
+![mul1](mul-1.png  =x100)
 <br>
 
 Godziny rozpoczęcia posz*c*zególnych etapów akcji.
