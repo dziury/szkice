@@ -4,9 +4,8 @@
 
 <cite> -- po wyjściu z Marmurowej</cite>
 
-```
-<span style="color:blue">some *This is Blue italic.* text</span>
-```
+<span style="color:blue"><cite>[...] "to było powyżej granicy szaleństwa..."</cite></span>
+
 
 Godziny rozpoczęcia posz*c*zególnych etapów akcji.
 
