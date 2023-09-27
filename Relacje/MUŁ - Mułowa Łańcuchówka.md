@@ -8,17 +8,11 @@
 
 <div style="text-align: justify; margin-right: 25%; margin-left: 25%;">
 Pomysł na tą akcję powstał dosyć spontanicznie, ale takie są często najlepsze.
-<br>
 Trzy jaskinie: Ptasia Studnia, Mała w Mułowej i Marmurowa.
-<br>
 W ciągu, z poręczowaniem, bez depozytów. Styl "od bazy do bazy". Cel w każdej jaskini szczególny, zachęcający do jej odwiedzenia: Sala Dantego, Fakro i Piaskownica.
-<br>
 480m deniwelacji, licząc powierzchniowy zjazd do Ptasiej 540.
-<br>
 Po wstępnym spojrzeniu na szkice i spisaniu najbardziej optymalnych odcinków linowych wyszło około 300m. Do tego 29 karabinków.
-<br>
 Ilość sprzętu duża, ale przy odpowiednim sprężu możliwa do wniesienia przez 2 osoby.
-<br>
 Rozpiska wyglądała tak:
 </div>
 
@@ -28,13 +22,9 @@ Rozpiska wyglądała tak:
 
 <div style="text-align: justify; margin-right: 25%; margin-left: 25%;">
 Pozostało tylko znaleźć wspołzawodnika/zawodniczkę dla tego przedsięwziecia i można działać. Na szczęście Ewa nie wymagała dużo przekonywania.
-<br>
 Prognozy na weekend nie najlepsze, dlatego decydujemy się na wyjście w niedzielę. Wtedy ma być trochę spokojniej niż w sobotę. Niestety tylko trochę.
-<br>
 Z bazy z charakterystycznym krakoskim sprężem wychodzimy niewiele przed 10. Podejście dosyć żwawym tempem. Po 2.5h jesteśmy pod otworem Małej. Tam przebieramy się, ogarniamy sprzęt i kierujemy się w kierunku Ptasiej.
-<br>
 Deszcz towarzyszy nam właściwie od rana, raz pada mocniej, raz słabiej ale wilgoć utrzymuje się cały czas na wysokim poziomie, ale wciąż w granicy rozsądku.
-<br>
 Niestety tego samego nie można powiedzieć o ilości wody w jaskini. W Ptasiej zmusza ona do naprawdę szybkiego poręczowania.
 </div>
 
@@ -48,41 +38,31 @@ Strugi wody w studni Palidera
 
 <div style="text-align: justify; margin-right: 25%; margin-left: 25%;">
 Po niecałych 40 minutach lądujemy w Sali Dantego. Spędzamy tam około pół minuty i kierujemy się do góry.
-<br>
 Wyjście do góry też nie zajmuje dużo czasu, główną trudnością we Wlotówce jest niezachłyśnięcie się spływającą z góry wodą.
-<br>
-Pomaga zasada: *Nie patrzeć do góry, tylko skupić się na ruchu płanietą.*
-<br>
+Pomaga zasada: <i>Nie patrzeć do góry, tylko skupić się na ruchu płanietą.</i>
 Po wyciągnięciu lin do góry czuć, że już w tym momencie napuchły od wody i zwiększyły swoją masę dwukrotnie.
 <br>
+<br>
 Następna w kolejce: Mała, Sala Fakro. Najgłębszy cel MUŁa. Tutaj już pakujemy liny w 3 wory.
-<br>
 W jaskini dużo wody, jednak dużo daje płachta zawieszona w stropie. Dzięki niej można chociaż przez chwilę nacieszyć się suchością.
-<br>
 W studni Geriawitów oczywiście znów natrafiamy na deszcz jaskiniowy, ale jest on znośny.
-<br>
 W sali Fakro spędzamy prawdopodobnie jeszcze mniej czasu niż w Dantego i do góry. Pozostała przecież jeszcze Marmurowa.
 <br>
 <br>
 Wory z linami do niej przygotowujemy jeszcze na dnie studni Wlotowej w Małej. Po wyjściu na powierzchnie, bierzemy plecaki, wory i czym prędzej ruszamy pod otwór Marmurowej.
-<br>
 Ilość wody porówynywalna do Ptasiej więc działanie też jest szybkie, pierwsza studnia, Sala Deszczu, Studnia Kandydata, kilka próżków i jesteśmy. Teraz tylko do góry.
-<br>
 Na ostatnich odcinkach trzeba się już mocniej zmotywować by wpiąć się do liny w strudze wody, ale oboje dajemy radę i około godziny 23 jesteśmy na powierzchni.
-<br>
 Udało się, ale też nie mogło być inaczej.
-<br>
-Przebranie się zajmuje trochę czasu. Perspektywa założenia plecaka ze 150m zmoczonych lin i mokrych ubrań na pewno nie motywuje [po zważeniu plecaka po akcji, waga wskazała 27kg :) ].
-<br>
+Przebranie się zajmuje trochę czasu. 
+Perspektywa założenia plecaka ze 150m zmoczonych lin i mokrych ubrań na pewno nie motywuje [po zważeniu plecaka po akcji, waga wskazała 27kg :) ].
 Ostatecznie nieco po północy zaczynamy schodzić, po 3 jesteśmy na bazie.
-<br>
 Poniżej dokładne czasy poszczególnych etapów.
 </div>
 
 ---
 
 <div style="text-align: justify; margin-right: 25%; margin-left: 25%;">
-Godziny rozpoczęcia posz*c*zególnych etapów akcji.
+Godziny rozpoczęcia poszczególnych etapów akcji.
 <br>
 Czas pomiędzy etapami spędzone głównie na przebieraniu się, jedzeniu i przygotowywaniu sprzętu.
 </div>
