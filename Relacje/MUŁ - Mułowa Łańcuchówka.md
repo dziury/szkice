@@ -1,5 +1,5 @@
 <br>
-![mul1](Relacje\mul-1.png)
+![mul1](mul-1.png)
 <br>
 
 Godziny rozpoczęcia posz*c*zególnych etapów akcji.
