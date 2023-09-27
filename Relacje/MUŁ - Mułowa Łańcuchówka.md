@@ -8,15 +8,21 @@
 
 Pomysł na tą akcję powstał dosyć spontanicznie, ale takie są często najlepsze.
 
-Trzy jaskinie: Ptasia Studnia, Mała w Mułowej i Marmurowa. W ciągu, z poręczowaniem, bez depozytów. Styl "od bazy do bazy". Cel w każdej jaskini szczególny, zachęcający do jej odwiedzenia: Sala Dantego, Fakro i Piaskownica.
+Trzy jaskinie: Ptasia Studnia, Mała w Mułowej i Marmurowa. 
 
-Po wstępnym spojerzeniu na szkice i spisaniu najbardziej optymalnych odcinków linowych wyszło około 300m. Do tego 29 karabinków. Ilość sprzętu duża, ale przy odpowiednim sprężu możliwa do wniesienia przez 2 osoby. Rozpiska wyglądała tak:
+W ciągu, z poręczowaniem, bez depozytów. Styl "od bazy do bazy". Cel w każdej jaskini szczególny, zachęcający do jej odwiedzenia: Sala Dantego, Fakro i Piaskownica.
+
+Po wstępnym spojerzeniu na szkice i spisaniu najbardziej optymalnych odcinków linowych wyszło około 300m. Do tego 29 karabinków. 
+
+Ilość sprzętu duża, ale przy odpowiednim sprężu możliwa do wniesienia przez 2 osoby. Rozpiska wyglądała tak:
 
 ![rozpiska](mul-2.png)
 
 <div>
-<img style="border:2px solid #FFFFFF" src="mul-2.png" alt="mul1" height="500" />
+<img style="border:2px solid #FFFFFF" src="mul-2.png" alt="mul1" height="300" />
 </div>
+
+
 
 ---
 
