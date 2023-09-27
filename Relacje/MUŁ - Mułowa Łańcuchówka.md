@@ -52,6 +52,16 @@ Po wyciągnięciu lin do góry czuć, że już w tym momencie napuchły od wody 
 <br>
 <br>
 Następna w kolejce: Mała, Sala Fakro. Najgłębszy cel MUŁa. Tutaj już pakujemy liny w 3 wory.
+<br>
+<br>
+<div>
+<figure>
+<img style="border:2px solid #808080" src="gmul2.gif" alt="pakowanie" height="350" />
+<figcaption align = "center"><b>Worowanie przed Małą</b></figcaption>
+</figure>
+</div>
+<br>
+<br>
 W jaskini dużo wody jednak pomaga płachta zawieszona w stropie. Dzięki niej można chociaż przez chwilę nacieszyć się suchością.
 W studni Geriawitów oczywiście znów natrafiamy na deszcz jaskiniowy, ale jest on znośny.
 W sali Fakro spędzamy prawdopodobnie jeszcze mniej czasu niż w Dantego i do góry. Pozostała przecież jeszcze Marmurowa.
@@ -102,5 +112,19 @@ Czas pomiędzy etapami spędzone głównie na przebieraniu się, jedzeniu i przy
 **Zejście** [start: **00:10** dojście: **03:15**]
 
 ---
+
+<div style="text-align: justify; margin-right: 25%; margin-left: 25%;">
+Data akcji: <b>24.09.2023</b>
+<br>
+<br>
+Uczestnicy:
+<br>
+<b>Bartosz Ziarkowski</b> <i>(autor tekstu)</i>
+<br>
+<b>Ewa Woźniak</b>
+<br>
+<br>
+Serdecznie zachęcamy do powtórzeń łańcuchówki.
+</div>
 
 
