@@ -28,7 +28,8 @@ Rozpiska wyglądała tak:
 Pozostało tylko znaleźć współzawodnika/zawodniczkę dla tego przedsięwzięcia i można działać. Na szczęście Ewa nie wymagała dużo przekonywania.
 Prognozy na weekend nie najlepsze, dlatego decydujemy się na wyjście w niedzielę. Wtedy ma być trochę spokojniej niż w sobotę. Niestety tylko trochę.
 Z bazy z charakterystycznym krakoskim sprężem wychodzimy niewiele przed 10. Podejście dosyć żwawym tempem. Po 2.5h jesteśmy pod otworem Małej. Tam przebieramy się, ogarniamy sprzęt i kierujemy się w kierunku Ptasiej.
-Deszcz towarzyszy nam właściwie od rana, raz pada mocniej, raz słabiej, ale wilgoć utrzymuje się cały czas na wysokim poziomie, ale wciąż w granicy rozsądku.
+Deszcz towarzyszy nam właściwie od rana, raz pada mocniej, raz słabiej, 
+wilgoć utrzymuje się cały czas na wysokim poziomie, ale wciąż w granicy rozsądku.
 Niestety tego samego nie można powiedzieć o ilości wody w jaskini. W Ptasiej zmusza ona do naprawdę szybkiego poręczowania.
 <br>
 <br>
