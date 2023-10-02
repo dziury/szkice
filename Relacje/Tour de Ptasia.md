@@ -4,7 +4,6 @@
 
 <div>
 <br>
-<br>
 <img style="border:2px solid #808080" src="tour de ptasia.png" alt="mul1" height="450" />
 </div>
 
