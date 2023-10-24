@@ -1,4 +1,4 @@
-<di>
+<div>
 <br>
 <img style="border:2px solid #808080" src="Siedemsetka.png" alt="mul1" height="450" />
 </div>
@@ -22,5 +22,3 @@ Start z Gronika lub z Kościeliskiej i przez Przysłop
 7. Marmurowa - dno studni Kandydata
 
 Zejście Adamicą
-
-
