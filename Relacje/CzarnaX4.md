@@ -70,7 +70,7 @@ Na podejściu dobre warunki, lekkie zachmurzenie. Od Pisanej pod otwór ścieżk
 
 Po niecałych dwóch godzinach od wyjścia z bazy jesteśmy pod otworem. Godzina na przygotowanie sprzętu oraz przebranie i o 12:30 zaczynamy poręczować Wlotówkę, oczywiście wylodzoną. 
 
-W Sali Hanki i Ewy zostawiamy gotowanie, aeropress i ruszamy dalej. Prożek Rabka, tutaj patent z ząbkiem na podchwyt z lewej znacząco ułatwia. Na trawersie Herkulesa wychodzimy do góry do stanowiska i zjeżdzamy. Komin Węgierski decydujemy przejść obejściem. Jest ono moim zdaniem łatwiejsze niż domyślny wariant. Ze względu na zbyt krótką linę końcówkę pierwszego wyciągu przechodzimy na lotnej.
+W Sali Hanki i Ewy zostawiamy gotowanie, aeropress i ruszamy dalej. Prożek Rabka, tutaj patent z ząbkiem na podchwyt z lewej znacząco ułatwia. Na trawersie Herkulesa wychodzimy do góry do stanowiska i zjeżdżamy. Komin Węgierski decydujemy przejść obejściem. Jest ono moim zdaniem łatwiejsze niż domyślny wariant. Ze względu na zbyt krótką linę końcówkę pierwszego wyciągu przechodzimy na lotnej.
 
 Nie śpieszymy się zbytnio, bo z założenia pierwsze przejście ma być tylko rozgrzewką i przygotowaniem jaskini pod następne. Mamy kilka odcinków lin do zostawienia po drodze do otworu północnego. 
 
@@ -85,10 +85,6 @@ Dochodzimy do Studni Smoluchowskiego i tam zaczynamy poręczowanie.
 </div>
 
 Następnie Szmaragdowe Jeziorko, tutaj też zostawiamy sznurek. Po Szmaragdzie seria 3 prożków, które przechodzimy sprawnie bez liny, zjazd Ślimakiem i dochodzimy nad Studnie Imieninową. Kolejny zjazd, który poręczujemy pod następne przejścia trawersu.
-
-Na drodze do upragnionego przeczołgania się przez ciasny otwór północny jaskinii stoi tylko Próg Latających Want. Pierwszy wyciąg robimy bez liny, drugi hakowo obejściem i wygrzebujemy się z jaskini o godzinie 15:40, co daje nawet solidny czas przejścia 3h 10 minut.
-
-Na powierzchni słonecznie, aż chciało by się na chwilę przysiąść, podelektować się chwilą. Niestety trzeba wracać przez błoto, pozostały nam jeszcze trzy trawersy. Po wszystkim będzie czas na chwilę refleksji.
 
 
 
@@ -108,11 +104,11 @@ Na powierzchni słonecznie, aż chciało by się na chwilę przysiąść, podele
 <br>
 </div>
 
-Powrót do otworu głównego mija w miarę sprawnie. Trochę przeszkadzają jedynie zbyt krótkie liny (2x30m) i wycofy na Progu Latających Want i Kominie Węgierskim musimy robić na 3 razy. Przynajmnie na przyszłość wiemy żeby zabrać 2x40m.
+Powrót do otworu głównego mija w miarę sprawnie. Trochę przeszkadzają jedynie zbyt krótkie liny (2x30m) i wycofy na Progu Latających Want i Kominie Węgierskim musimy robić na 3 razy. Przynajmniej na przyszłość wiemy, żeby zabrać 2x40m.
 
 
 
-Po drodze zbieramy wodę ze Szmaragdowego Jeziorka - przyda się poźniej na kawę. Na powierzchni meldujemy się o 18:35. Połowa zrobiona.
+Po drodze zbieramy wodę ze Szmaragdowego Jeziorka - przyda się później na kawę. Na powierzchni meldujemy się o 18:35. Połowa zrobiona.
 
 <div align="center">
 <figure>
