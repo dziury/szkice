@@ -47,3 +47,11 @@
 ## ![title](Obrazy/site div 3.png)
 
 ## [Siedemsetka](Relacje/Siedemsetka.html)
+
+<div>
+<br>
+</div>
+
+![title](Obrazy/site div 3.png)
+
+## [Czarna x4](Relacje/CzarnaX4.html)
