@@ -86,7 +86,9 @@ Dochodzimy do Studni Smoluchowskiego i tam zaczynamy poręczowanie.
 
 Następnie Szmaragdowe Jeziorko, tutaj też zostawiamy sznurek. Po Szmaragdzie seria 3 prożków, które przechodzimy sprawnie bez liny, zjazd Ślimakiem i dochodzimy nad Studnie Imieninową. Kolejny zjazd, który poręczujemy pod następne przejścia trawersu.
 
+Na drodze do upragnionego przeczołgania się przez ciasny otwór północny jaskinii stoi tylko Próg Latających Want. Pierwszy wyciąg robimy bez liny, drugi hakowo obejściem i wygrzebujemy się z jaskini o godzinie 15:40, co daje nawet solidny czas przejścia 3h 10 minut.
 
+Na powierzchni słonecznie, aż chciało by się na chwilę przysiąść, podelektować się chwilą. Niestety trzeba wracać przez błoto, pozostały nam jeszcze trzy trawersy. Po wszystkim będzie czas na chwilę refleksji.
 
 <div align="center">
 <figure>
@@ -106,9 +108,7 @@ Następnie Szmaragdowe Jeziorko, tutaj też zostawiamy sznurek. Po Szmaragdzie s
 
 Powrót do otworu głównego mija w miarę sprawnie. Trochę przeszkadzają jedynie zbyt krótkie liny (2x30m) i wycofy na Progu Latających Want i Kominie Węgierskim musimy robić na 3 razy. Przynajmniej na przyszłość wiemy, żeby zabrać 2x40m.
 
-
-
-Po drodze zbieramy wodę ze Szmaragdowego Jeziorka - przyda się później na kawę. Na powierzchni meldujemy się o 18:35. Połowa zrobiona.
+Po drodze zbieramy wodę ze Szmaragdowego Jeziorka - przyda się na kawę. Na powierzchni meldujemy się o 18:35. Połowa zrobiona.
 
 <div align="center">
 <figure>
@@ -118,8 +118,6 @@ Po drodze zbieramy wodę ze Szmaragdowego Jeziorka - przyda się później na ka
 <br>
 </div>
 
-
-
 <div align="center">
 <figure>
 <img style="border:2px solid #808080" src="CzarnaX4/6.jpg" alt="6" height="350" />
@@ -128,13 +126,9 @@ Po drodze zbieramy wodę ze Szmaragdowego Jeziorka - przyda się później na ka
 <br>
 </div>
 
-Trzeci trawers zaczynamy od kawy w Sali Hanki i Ewy. Opłacało się zabrać aeropress i trochę dobrej kawy. Kilka łyków czarnego wywaru poprawia i tak dobre już nastroje. Motywuje też do szybkiego poruszania się. 
-
-
+Trzeci trawers zaczynamy od kawy w Sali Hanki i Ewy. Opłacało się zabrać aeropress. Kilka łyków czarnego wywaru poprawia i tak dobre już nastroje. Motywuje też do szybkiego poruszania się. 
 
 Trzeci trawers przechodzimy najszybciej ze wszystkich. Odliczając przerwę na kawę, wychodzi 2h10min. Pomaga na pewno wcześniejsze rozchodzenie po jaskini i znajomość patentów na odcinkach wspinaczkowych. O 21:30 wychodzimy po raz drugi tego dnia otworem północnym i właściwie natychmiastowo wracamy pod ziemię na ostatni pasaż.
-
-
 
 <div align="center">
 <figure>
@@ -146,15 +140,9 @@ Trzeci trawers przechodzimy najszybciej ze wszystkich. Odliczając przerwę na k
 
 Czwarty trawers zajmuje najwięcej czasu. Na początku lina klinuje się przy zjeździe Latającymi Wantami. Trzeba podejść i ją odhaczyć. 
 
-
-
 Najwięcej czasu tracimy jednak na Szmaragdzie. Trawers reporęczuje bez większych problemów i decyduję się zjechać na złodzieja ostatnią część. Po zdjęciu ostatniej przepinki udaje mi się wpaść do jeziorka, potem nie mogę zdjąć złodzieja, muszę podchodzić na dwóch przyrządach do stanowiska, żeby odzyskać linę. Na to tracimy minimum 20 minut.
 
-
-
 Potem na szczęście już nic niespodziewanego się nie dzieje i o 1:10 oboje jesteśmy na powierzchni. Po 12 godzinach i 40 minutach akcję możemy uznać za udaną.
-
-
 
 <div align="center">
 <figure>
@@ -168,11 +156,7 @@ Na powierzchni zimno i wietrznie. Motywuje to do szybkiego przebrania się i sch
 
 *Czarna 24h wydaje się być pomysłem możliwym do zrealizowania.*
 
-
-
                                                                                                                           Bartosz Ziarkowski
-
-
 
 <div align="center">
 <figure>
