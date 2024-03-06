@@ -1,14 +1,10 @@
-
-
 # Czarna 24h
 
-Celem akcji było przejście trawersu czarnej (od otworu głównego do północnego, i z powrotem) jak najwięcej razy w czasie 24 godzin. Ostatetcznie zrobiliśmy 10 trawersów i zajęło nam to 23 godziny i 20 minut.
+Celem akcji było przejście trawersu czarnej (od otworu głównego do północnego, i z powrotem) jak najwięcej razy w czasie 24 godzin. Ostatetcznie zrobiliśmy 10 trawersów i zajęło nam to 23 godziny i 20 minut. Warunki w jaskini przeciętne, wysoki stan wody jak na tę porę roku.
 
 <div>
 <br>
 </div>
-
-
 
 Start akcji: 04.03, godzina 11:20
 
