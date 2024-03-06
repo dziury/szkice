@@ -1,6 +1,8 @@
 # Czarna 24h
 
-Celem akcji było przejście trawersu czarnej (od otworu głównego do północnego, i z powrotem) jak najwięcej razy w czasie 24 godzin. Ostatetcznie zrobiliśmy 10 trawersów i zajęło nam to 23 godziny i 20 minut. Warunki w jaskini przeciętne, wysoki stan wody jak na tę porę roku.
+Celem akcji było przejście trawersu czarnej (od otworu głównego do północnego, i z powrotem) jak najwięcej razy w czasie 24 godzin. Ostatetcznie zrobiliśmy 10 trawersów i zajęło nam to 23 godziny i 20 minut. Warunki w jaskini przeciętne, wysoki stan wody jak na tę porę roku. 
+
+2 dni przed akcją, 2.03 zostawiliśmy w jaskini depozyt linowy i żywieniowy.
 
 <div>
 <br>
@@ -16,7 +18,7 @@ Uczestnicy: Kamila Wachnicka, Bartosz Ziarkowski
 <br>
 </div>
 
-Czasy poszczgólnych etapów (g - otwór główny, p - otwór północny):
+### Czasy poszczgólnych etapów (g - otwór główny, p - otwór północny):
 
 Trawers 1 (g-p): 11:20 - 14:06 [2h46min]
 
@@ -49,13 +51,11 @@ Trawers 10 (p-g) 7:00 - 10:40 [3h40min]
 </div>
 </div>
 
-2 dni przed akcją, 2.03 zostawiliśmy w jaskini depozyt linowy i żywieniowy.
-
 <div>
 <br>
 </div>
 
-Przebieg akcji
+### Przebieg akcji
 
 <div>
 <img style="border:2px solid #808080" src="Czarna24/przebieg_gl_pln.png" alt="przebieg" height="340">
@@ -63,3 +63,11 @@ Przebieg akcji
 <img style="border:2px solid #808080" src="Czarna24/przebieg_pln_gl.png" alt="przebieg" height="340">
 <br>
 </div>
+
+### Komentarze techniczne
+
+- Używaliśmy lin Simond 7.5mm, Black Diamond Rope Dry 7mm i Petzl Pur Line 6mm do poręczowania + kilkanaście lekkich karabinków
+
+- Do wspinania i wycofów 40m odcinek Black Diamond Rope Dry 7mm + 5 ekpresów
+  
+  
