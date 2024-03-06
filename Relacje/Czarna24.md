@@ -1,13 +1,14 @@
+
+
+# Czarna 24h
+
 Celem akcji było przejście trawersu czarnej (od otworu głównego do północnego, i z powrotem) jak najwięcej razy w czasie 24 godzin. Ostatetcznie zrobiliśmy 10 trawersów i zajęło nam to 23 godziny i 20 minut.
 
-<div align="center"><figure>
-<br>
-<img style="border:2px solid #808080" src="Czarna24/przed.jpg" alt="przed" height="350" />
-<img style="border:2px solid #808080" src="Czarna24/po.jpg" alt="po" height="350" />
-<figcaption align = "center"><b>Przed i po akcji</b></figcaption>
-</figure>
+<div>
 <br>
 </div>
+
+
 
 Start akcji: 04.03, godzina 11:20
 
@@ -42,7 +43,14 @@ Trawers 9 (g-p) 4:49 - 7:00 [2h11min]
 Trawers 10 (p-g) 7:00 - 10:40 [3h40min]
 
 <div>
+<div align="center"><figure>
 <br>
+<img style="border:2px solid #808080" src="Czarna24/przed.jpg" alt="przed" height="350" />
+<img style="border:2px solid #808080" src="Czarna24/po.jpg" alt="po" height="350" />
+<figcaption align = "center"><b>Przed i po akcji</b></figcaption>
+</figure>
+<br>
+</div>
 </div>
 
 2 dni przed akcją, 2.03 zostawiliśmy w jaskini depozyt linowy i żywieniowy.
@@ -52,8 +60,6 @@ Trawers 10 (p-g) 7:00 - 10:40 [3h40min]
 </div>
 
 Przebieg akcji
-
-
 
 <div>
 <img style="border:2px solid #808080" src="Czarna24/przebieg_gl_pln.png" alt="przebieg" height="340">
