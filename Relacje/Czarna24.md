@@ -10,7 +10,7 @@ Celem akcji było przejście trawersu czarnej (od otworu głównego do północn
 
 Start akcji: 04.03, godzina 11:20
 
-Koniec: 05.05, godzina 10:40 
+Koniec: 05.03, godzina 10:40 
 
 Uczestnicy: Kamila Wachnicka, Bartosz Ziarkowski
 
@@ -69,5 +69,3 @@ Trawers 10 (p-g) 7:00 - 10:40 [3h40min]
 - Używaliśmy lin Simond 7.5mm, Black Diamond Rope Dry 7mm i Petzl Pur Line 6mm do poręczowania + kilkanaście lekkich karabinków
 
 - Do wspinania i wycofów 40m odcinek Black Diamond Rope Dry 7mm + 5 ekpresów
-  
-  
