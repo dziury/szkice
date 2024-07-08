@@ -55,3 +55,15 @@
 ![title](Obrazy/site div 3.png)
 
 ## [Czarna x4](Relacje/CzarnaX4.html)
+
+
+
+![title](file://C:\Users\bart\OneDrive\Dokumenty\szkice\Obrazy\site div 3.png?msec=1720458649364)
+
+## [Czarna 24](Relacje/Czarna24.html)
+
+
+
+![title](file://C:\Users\bart\OneDrive\Dokumenty\szkice\Obrazy\site div 3.png?msec=1720458649364)
+
+## [Tour de Ptasia](Relacje/Tour%20de%20Ptasia.html)
