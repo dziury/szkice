@@ -1,5 +1,5 @@
 <div style="text-align: justify; margin-right: 15%; margin-left: 15%;">
-Tour de Ptasia (06.07.2024)
+Tour de Ptasia (06-07 lipca 2024)
 <br>
 <br>
 Celem było odwiedzenie czterech 'den' Ptasiej Studni w trakcie jednej akcji: Nowego Dna, Starego Dna, Baru "Zacisze" i Wielkiego Kłamcy.
@@ -17,7 +17,8 @@ Podzieliliśmy się na 4 zespoły (3 dwójkowe i 1 trójkowy). Każdy miał za z
 - Zespół 2.2 [Danuta Gromała, Kamila Wachnicka, Ania Drzewicz] - Wielki Kłamca
   <br>
 <br>
-Po zaporęczowaniu celem było odwiedzenie reszty den "na lekko" i zdeporęczowanie ostatniego odwiedzonego. Wyglądało to tak:
+Po zaporęczowaniu celem było odwiedzenie reszty den "na lekko" i 
+zdeporęczowanie ostatniego z nich. Wyglądało to tak:
 <br>
 <br>
 - Zespół 1.1 [Bartosz Ziarkowski, Piotr Wójcik] - Wielki Kłamca
@@ -29,7 +30,8 @@ Po zaporęczowaniu celem było odwiedzenie reszty den "na lekko" i zdeporęczowa
 - Zespół 2.2 [Danuta Gromała, Kamila Wachnicka, Ania Drzewicz] - Stare Dno + główny ciąg
   <br>
 <br>
-Ostateczny czas akcji (od wejścia pierwszej osoby do wyjścia ostatniej) wyniósł około 16.5h. Użyliśmy około 1000m lin i 90 karabinków. W jaskini pokonaliśmy około 780m przewyższeń.
+Ostateczny czas akcji (od wejścia pierwszej osoby do wyjścia ostatniej) wyniósł 16.5h.
+Użyliśmy 1000m lin i 90 karabinków. W jaskini pokonaliśmy około 780m przewyższeń.
 <br>
 <div align="center"><figure>
 <br>
