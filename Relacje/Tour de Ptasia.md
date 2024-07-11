@@ -40,4 +40,12 @@ Użyliśmy 1000m lin i 90 karabinków. W jaskini pokonaliśmy około 780m przewy
 <figcaption align = "center"><b>Schemat działania</b></figcaption>
 </figure>
 <br>
+<br>
+<br>
+<div align="center"><figure>
+<br>
+<img style="border:2px solid #808080" src="TourDePtasia/rozpiska_uzyte.png" alt="przed" height="550" />
+<figcaption align = "center"><b>Rozpiska lin</b></figcaption>
+</figure>
+<br>
 </div>
